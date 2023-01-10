@@ -49,10 +49,10 @@ const Maincontent = () => {
             <div className="w-[910px]">
               <div className="text-4xl font-bold">Nyan Heroes</div>
               <div className="flex flex-rows space-x-2 mt-4">
-                <div className="rounded-full bg-neutral-900 outline outline-1 outline-violet-800/[.4] text-lg px-4 py-1">
+                <div className="rounded-full bg-violet-950 outline outline-1 outline-violet-800/[.4] text-lg px-4 py-1">
                   Mech
                 </div>
-                <div className="rounded-full bg-neutral-900 outline outline-1 outline-violet-800/[.4] text-lg px-4 py-1">
+                <div className="rounded-full bg-violet-950 outline outline-1 outline-violet-800/[.4] text-lg px-4 py-1">
                   Battle Royale
                 </div>
                 <div className="mt-[9px] pl-3">
@@ -88,7 +88,7 @@ const Maincontent = () => {
                 not just the studio.
               </div>
             </div>
-            <div className="w-[320px] justify-self-end mt-3 mr-5 rounded bg-neutral-900 outline outline-1 outline-violet-800/[.4] px-5 py-3 pb-5">
+            <div className="w-[320px] justify-self-end mt-3 mr-5 rounded bg-violet-950 outline outline-1 outline-violet-800/[.4] px-5 py-3 pb-5">
               <div className="text-2xl font-bold text-center">Nyan Heros</div>
               <div className="text-sm text-center text-pink-600 mt-1">
                 Owners Group
@@ -125,7 +125,7 @@ const Maincontent = () => {
             </div>
           </div>
           <div>
-            <button className="px-6 h-[40px] rounded bg-neutral-900 outline outline-1 outline-violet-800/[.4]">
+            <button className="px-6 h-[40px] rounded bg-violet-950 outline outline-1 outline-violet-800/[.4]">
               See All
             </button>
           </div>
@@ -133,37 +133,37 @@ const Maincontent = () => {
       </div>
 
       <div className="flex items-center text-white justify-center space-x-6 mt-6">
-        <div className="rounded overflow-hidden text-center space-y-1 bg-neutral-900 outline outline-1 outline-violet-800/[.4] p-1">
+        <div className="rounded overflow-hidden text-center space-y-1 bg-violet-950 outline outline-1 outline-violet-800/[.4] p-1">
           <img className="" src={image1} alt="Logo" width="200" />
           <div className="text-md">Nyan Hero #997</div>
           <div className="text-sm text-pink-600">Nyan Heros</div>
           <div className="font-bold">4.25 SOL</div>
         </div>
-        <div className="rounded overflow-hidden text-center space-y-1 bg-neutral-900 outline outline-1 outline-violet-800/[.4] p-1">
+        <div className="rounded overflow-hidden text-center space-y-1 bg-violet-950 outline outline-1 outline-violet-800/[.4] p-1">
           <img className="" src={image2} alt="Logo" width="200" />
           <div className="text-md">Nyan Hero #886</div>
           <div className="text-sm text-pink-600">Nyan Heros</div>
           <div className="font-bold">69.69 SOL</div>
         </div>
-        <div className="rounded overflow-hidden text-center space-y-1 bg-neutral-900 outline outline-1 outline-violet-800/[.4] p-1">
+        <div className="rounded overflow-hidden text-center space-y-1 bg-violet-950 outline outline-1 outline-violet-800/[.4] p-1">
           <img className="" src={image3} alt="Logo" width="200" />
           <div className="text-md">Nyan Hero #666</div>
           <div className="text-sm text-pink-600">Nyan Heros</div>
           <div className="font-bold">4.20 SOL</div>
         </div>
-        <div className="rounded overflow-hidden text-center space-y-1 bg-neutral-900 outline outline-1 outline-violet-800/[.4] p-1">
+        <div className="rounded overflow-hidden text-center space-y-1 bg-violet-950 outline outline-1 outline-violet-800/[.4] p-1">
           <img className="" src={image4} alt="Logo" width="200" />
           <div className="text-md">Nyan Hero #1677</div>
           <div className="text-sm text-pink-600">Nyan Heros</div>
           <div className="font-bold">5.00 SOL</div>
         </div>
-        <div className="rounded overflow-hidden text-center space-y-1 bg-neutral-900 outline outline-1 outline-violet-800/[.4] p-1">
+        <div className="rounded overflow-hidden text-center space-y-1 bg-violet-950 outline outline-1 outline-violet-800/[.4] p-1">
           <img className="" src={image5} alt="Logo" width="200" />
           <div className="text-md">Nyan Hero #005</div>
           <div className="text-sm text-pink-600">Nyan Heros</div>
           <div className="font-bold">7.50 SOL</div>
         </div>
-        <div className="rounded overflow-hidden text-center space-y-1 bg-neutral-900 outline outline-1 outline-violet-800/[.4] p-1">
+        <div className="rounded overflow-hidden text-center space-y-1 bg-violet-950 outline outline-1 outline-violet-800/[.4] p-1">
           <img className="" src={image1} alt="Logo" width="200" />
           <div className="text-md">Nyan Hero #997</div>
           <div className="text-sm text-pink-600">Nyan Heros</div>

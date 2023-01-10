@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <body className="bg-neutral-900 w-full h-full">
+      <body className="bg-violet-950 w-full h-full">
         <div className="grid grid-flow-row-dense grid-cols-8 grid-rows-1">
           <div className="">
             <Sidebar />
