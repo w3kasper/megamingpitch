@@ -26,7 +26,7 @@ const Navbar = () => {
           </div>
         </button>
       </div>
-      <div className="ml-[360px] w-[550px] h-10 rounded-full bg-violet-800/[.15] self-center">
+      <div className="ml-[360px] w-[550px] h-10 rounded-full bg-violet-900/20 self-center">
         <div className="mt-2 ml-[10px]">
           <CiSearch size={25} />
         </div>
